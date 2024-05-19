@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5078e168-b750-4ade-b70b-49ee0a88535d" name="Changes" comment="solid_l_c.py">
-      <change afterPath="$PROJECT_DIR$/solid_i_w.py" afterDir="false" />
+    <list default="true" id="5078e168-b750-4ade-b70b-49ee0a88535d" name="Changes" comment="solid_i_w.py">
+      <change afterPath="$PROJECT_DIR$/solid_i_c.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.solid_i_w.executor": "Run",
     "Python.solid_l_c.executor": "Run",
     "Python.solid_l_w.executor": "Run",
     "Python.solid_o_c.executor": "Run",
@@ -134,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716114434311</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="solid_i_w.py">
+      <option name="closed" value="true" />
+      <created>1716114479888</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716114479888</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +164,7 @@
     <MESSAGE value="solid_o_c.py" />
     <MESSAGE value="solid_l_w.py" />
     <MESSAGE value="solid_l_c.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="solid_l_c.py" />
+    <MESSAGE value="solid_i_w.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="solid_i_w.py" />
   </component>
 </project>
