@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5078e168-b750-4ade-b70b-49ee0a88535d" name="Changes" comment="solid_i_c.py">
-      <change afterPath="$PROJECT_DIR$/solid_d_w.py" afterDir="false" />
+    <list default="true" id="5078e168-b750-4ade-b70b-49ee0a88535d" name="Changes" comment="solid_d_w.py">
+      <change afterPath="$PROJECT_DIR$/solid_d_c.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716114516963</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="solid_d_w.py">
+      <option name="closed" value="true" />
+      <created>1716114558530</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716114558530</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +183,7 @@
     <MESSAGE value="solid_l_c.py" />
     <MESSAGE value="solid_i_w.py" />
     <MESSAGE value="solid_i_c.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="solid_i_c.py" />
+    <MESSAGE value="solid_d_w.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="solid_d_w.py" />
   </component>
 </project>
